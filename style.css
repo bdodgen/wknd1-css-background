@@ -1,0 +1,16 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #ffffff;
+  background-image: url(img/bg-image.webp);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
